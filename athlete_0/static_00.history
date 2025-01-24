@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="static_00" notes="">
+
+  <Parameters>
+    <Param header="0" name="Capture Date" value="2025-Jan-22 20:23:14"/>
+    <Param header="0" name="x2d" value="static_00.x2d"/>
+    <Param header="0" name="x1d" value="static_00.x1d"/>
+  </Parameters>
+
+  <Run name="" notes="">
+    <Parameters>
+      <Param header="0" name="Version" value="2.16.0.150876h"/>
+      <Param header="0" name="Start Date" value="2025-Jan-22 20:23:55"/>
+    </Parameters>
+    <OperationType name="Core Processing" notes="">
+      <OperationSubType name="Reconstruct" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:23:55"/>
+          <Param header="1" name="Frame Range" value=""/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="359"/>
+          <Param header="1" name="Grayscale Circle Fitting" value=""/>
+          <Param header="0" name="Enable" value="Yes"/>
+          <Param header="0" name="Circularity Threshold Tweak" value="0"/>
+          <Param header="1" name="Reconstruction" value=""/>
+          <Param header="0" name="3D Predictions" value="No"/>
+          <Param header="0" name="Environmental Drift Tolerance" value="1.5"/>
+          <Param header="0" name="Minimum Centroid Radius" value="0"/>
+          <Param header="0" name="Maximum Centroid Radius" value="50"/>
+          <Param header="0" name="Minimum Reconstruction Radius" value="0"/>
+          <Param header="0" name="Maximum Reconstruction Radius" value="1000"/>
+          <Param header="0" name="Minimum Cameras to Start Trajectory" value="3"/>
+          <Param header="0" name="Minimum Cameras to Continue Trajectory" value="2"/>
+          <Param header="0" name="Reconstruction Minimum Separation" value="14"/>
+          <Param header="0" name="Volume Min X" value="-100000"/>
+          <Param header="0" name="Volume Min Y" value="-100000"/>
+          <Param header="0" name="Volume Min Z" value="-100000"/>
+          <Param header="0" name="Volume Max X" value="100000"/>
+          <Param header="0" name="Volume Max Y" value="100000"/>
+          <Param header="0" name="Volume Max Z" value="100000"/>
+          <Param header="1" name="Trajectory Tracking" value=""/>
+          <Param header="0" name="Trajectory Prediction Error" value="150"/>
+          <Param header="0" name="Trajectory Startup Error" value="150"/>
+          <Param header="0" name="Max Trajectory Length to Delete" value="0"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+  </Run>
+
+  <Run name="" notes="">
+    <Parameters>
+      <Param header="0" name="Version" value="2.16.0.150876h"/>
+      <Param header="0" name="Start Date" value="2025-Jan-22 20:24:30"/>
+    </Parameters>
+    <OperationType name="Core Processing" notes="">
+      <OperationSubType name="Reconstruct" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:24:30"/>
+          <Param header="1" name="Frame Range" value=""/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="359"/>
+          <Param header="1" name="Grayscale Circle Fitting" value=""/>
+          <Param header="0" name="Enable" value="Yes"/>
+          <Param header="0" name="Circularity Threshold Tweak" value="0"/>
+          <Param header="1" name="Reconstruction" value=""/>
+          <Param header="0" name="3D Predictions" value="No"/>
+          <Param header="0" name="Environmental Drift Tolerance" value="1.5"/>
+          <Param header="0" name="Minimum Centroid Radius" value="0"/>
+          <Param header="0" name="Maximum Centroid Radius" value="50"/>
+          <Param header="0" name="Minimum Reconstruction Radius" value="0"/>
+          <Param header="0" name="Maximum Reconstruction Radius" value="1000"/>
+          <Param header="0" name="Minimum Cameras to Start Trajectory" value="3"/>
+          <Param header="0" name="Minimum Cameras to Continue Trajectory" value="2"/>
+          <Param header="0" name="Reconstruction Minimum Separation" value="14"/>
+          <Param header="0" name="Volume Min X" value="-100000"/>
+          <Param header="0" name="Volume Min Y" value="-100000"/>
+          <Param header="0" name="Volume Min Z" value="-100000"/>
+          <Param header="0" name="Volume Max X" value="100000"/>
+          <Param header="0" name="Volume Max Y" value="100000"/>
+          <Param header="0" name="Volume Max Z" value="100000"/>
+          <Param header="1" name="Trajectory Tracking" value=""/>
+          <Param header="0" name="Trajectory Prediction Error" value="150"/>
+          <Param header="0" name="Trajectory Startup Error" value="150"/>
+          <Param header="0" name="Max Trajectory Length to Delete" value="0"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:FHD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:25:16"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:FHD"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LBHD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:25:17"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LBHD"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RBHD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:25:18"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RBHD"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Detach Marker" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:25:44"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Detach Marker" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:25:50"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Detach Marker" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:25:58"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Detach Marker" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:02"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RBAR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:23"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RBAR"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LBAR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:26"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LBAR"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RASI" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:30"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RASI"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RASI" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:35"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RASI"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RSACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:37"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RSACR"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LSACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:38"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LSACR"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LASI" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:39"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LASI"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:USACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:40"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:USACR"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:C7" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:44"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:C7"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:CLAV" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:45"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:CLAV"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:T10" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:46"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:T10"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RSHO" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:48"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RSHO"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LSHO" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:51"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LSHO"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTHI1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:56"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTHI1"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTHI3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:57"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTHI3"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTHI2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:57"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTHI2"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LLFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:26:59"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LLFC"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:01"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMFC"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTIB1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:03"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTIB1"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTIB2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:04"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTIB2"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTIB3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:04"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTIB3"/>
+          <Param header="0" name="Frame" value="14"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTIB1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:14"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTIB1"/>
+          <Param header="0" name="Frame" value="20"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTIB2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:14"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTIB2"/>
+          <Param header="0" name="Frame" value="20"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LTIB3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:14"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LTIB3"/>
+          <Param header="0" name="Frame" value="20"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:21"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LLMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:22"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LLMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LHEE" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:23"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LHEE"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMT1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:24"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMT1"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMT5" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:25"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMT5"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMT3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:26"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMT3"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RTHI1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:31"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RTHI1"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RTHI2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:31"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RTHI2"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RTHI3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:32"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RTHI3"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RLFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:37"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RLFC"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:38"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMFC"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RTIB1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:40"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RTIB1"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RTIB3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:41"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RTIB3"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RTIB2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:42"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RTIB2"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RLMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:45"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RLMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RLMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:51"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RLMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:52"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RLMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:27:58"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RLMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:00"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMMAL"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RHEE" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:02"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RHEE"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMT5" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:04"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMT5"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMT1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:05"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMT1"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMT3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:06"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMT3"/>
+          <Param header="0" name="Frame" value="17"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMT1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:12"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMT1"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMT3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:13"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMT3"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:26"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMEP"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LLEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:27"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LLEP"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LDUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:31"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LDUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LMUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:33"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LMUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LUUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:35"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LUUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LUL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:44"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LUL"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LRAD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:45"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LRAD"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:LRFIN" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:28:46"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:LRFIN"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RUL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:03"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RUL"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RRAD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:03"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RRAD"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RUFIN" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:04"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RUFIN"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:05"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMEP"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RLEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:06"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RLEP"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:10"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RDUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:12"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RDUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RMUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:20"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RMUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RDUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:22"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RDUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Ayumi_22_01_2025:RUUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 20:29:22"/>
+          <Param header="0" name="Label" value="Ayumi_22_01_2025:RUUPA"/>
+          <Param header="0" name="Frame" value="23"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+  </Run>
+
+</Trial>

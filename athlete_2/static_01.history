@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="static_01" notes="">
+
+  <Parameters>
+    <Param header="0" name="Capture Date" value="2025-Jan-22 13:00:13"/>
+    <Param header="0" name="x2d" value="static_01.x2d"/>
+    <Param header="0" name="x1d" value="static_01.x1d"/>
+  </Parameters>
+
+  <Run name="" notes="">
+    <Parameters>
+      <Param header="0" name="Version" value="2.16.0.150876h"/>
+      <Param header="0" name="Start Date" value="2025-Jan-22 13:01:07"/>
+    </Parameters>
+    <OperationType name="Core Processing" notes="">
+      <OperationSubType name="Reconstruct" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:01:07"/>
+          <Param header="1" name="Frame Range" value=""/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="497"/>
+          <Param header="1" name="Grayscale Circle Fitting" value=""/>
+          <Param header="0" name="Enable" value="Yes"/>
+          <Param header="0" name="Circularity Threshold Tweak" value="0"/>
+          <Param header="1" name="Reconstruction" value=""/>
+          <Param header="0" name="3D Predictions" value="No"/>
+          <Param header="0" name="Environmental Drift Tolerance" value="1.5"/>
+          <Param header="0" name="Minimum Centroid Radius" value="0"/>
+          <Param header="0" name="Maximum Centroid Radius" value="50"/>
+          <Param header="0" name="Minimum Reconstruction Radius" value="0"/>
+          <Param header="0" name="Maximum Reconstruction Radius" value="1000"/>
+          <Param header="0" name="Minimum Cameras to Start Trajectory" value="3"/>
+          <Param header="0" name="Minimum Cameras to Continue Trajectory" value="2"/>
+          <Param header="0" name="Reconstruction Minimum Separation" value="14"/>
+          <Param header="0" name="Volume Min X" value="-100000"/>
+          <Param header="0" name="Volume Min Y" value="-100000"/>
+          <Param header="0" name="Volume Min Z" value="-100000"/>
+          <Param header="0" name="Volume Max X" value="100000"/>
+          <Param header="0" name="Volume Max Y" value="100000"/>
+          <Param header="0" name="Volume Max Z" value="100000"/>
+          <Param header="1" name="Trajectory Tracking" value=""/>
+          <Param header="0" name="Trajectory Prediction Error" value="150"/>
+          <Param header="0" name="Trajectory Startup Error" value="150"/>
+          <Param header="0" name="Max Trajectory Length to Delete" value="0"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:FHD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:18"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:FHD"/>
+          <Param header="0" name="Frame" value="1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LBHD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:20"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LBHD"/>
+          <Param header="0" name="Frame" value="1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RBHD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:21"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RBHD"/>
+          <Param header="0" name="Frame" value="1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RBAR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:29"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RBAR"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LBAR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:31"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LBAR"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RASI" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:35"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RASI"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RSACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:38"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RSACR"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LSACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:39"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LSACR"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LASI" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:41"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LASI"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:USACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:42"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:USACR"/>
+          <Param header="0" name="Frame" value="2"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:USACR" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:54"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:USACR"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:C7" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:55"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:C7"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:CLAV" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:58"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:CLAV"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:T10" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:02:59"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:T10"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RSHO" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:01"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RSHO"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LSHO" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:02"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LSHO"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LTHI1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:26"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LTHI1"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LTHI3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:27"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LTHI3"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LTHI2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:28"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LTHI2"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LLFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:37"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LLFC"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:38"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMFC"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LTIB1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:45"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LTIB1"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LTIB2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:45"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LTIB2"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LTIB3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:46"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LTIB3"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:52"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMMAL"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LLMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:52"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LLMAL"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LHEE" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:56"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LHEE"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMT1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:03:59"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMT1"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMT5" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:02"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMT5"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMT3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:03"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMT3"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RTHI1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:05"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RTHI1"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RTHI2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:07"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RTHI2"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RTHI3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:08"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RTHI3"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RLFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:13"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RLFC"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMFC" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:13"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMFC"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RTIB1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:16"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RTIB1"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RTIB3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:16"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RTIB3"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RTIB2" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:17"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RTIB2"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RLMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:24"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RLMAL"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMMAL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:25"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMMAL"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RHEE" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:26"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RHEE"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMT5" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:28"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMT5"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMT1" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:29"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMT1"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMT3" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:30"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMT3"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:44"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMEP"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LLEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:46"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LLEP"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LDUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:04:59"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LDUPA"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LMUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:00"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LMUPA"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LUUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:01"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LUUPA"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LUL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:18"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LUL"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LRAD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:20"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LRAD"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:LRFIN" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:20"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:LRFIN"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RUL" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:34"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RUL"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RRAD" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:35"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RRAD"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RUFIN" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:36"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RUFIN"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:41"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMEP"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RLEP" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:42"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RLEP"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RMUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:46"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RMUPA"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RDUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:47"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RDUPA"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Label Trajectory  Hannes_22_01_2025:RUUPA" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2025-Jan-22 13:05:48"/>
+          <Param header="0" name="Label" value="Hannes_22_01_2025:RUUPA"/>
+          <Param header="0" name="Frame" value="15"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+  </Run>
+
+</Trial>

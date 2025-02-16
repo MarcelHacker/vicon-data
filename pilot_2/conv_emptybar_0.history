@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="conv_emptybar_0" notes="">
+
+  <Parameters>
+    <Param header="0" name="Capture Date" value="2025-Jan-22 13:30:19"/>
+    <Param header="0" name="x2d" value="conv_emptybar_0.x2d"/>
+    <Param header="0" name="x1d" value="conv_emptybar_0.x1d"/>
+  </Parameters>
+
+</Trial>
